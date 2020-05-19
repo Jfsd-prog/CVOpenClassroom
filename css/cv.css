@@ -148,7 +148,7 @@ principal li aside {
   }
   header div {
     width        : -webkit-fill-available;
-    padding-left : 3rem;
+    padding-left : 2rem;
   }
   header div:after {
     border-top : 1px solid var(--jaune);
