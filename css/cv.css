@@ -10,7 +10,7 @@ body {
 }
 
 aside {
-  background-color: var(#ffca04);
+  background-color: var(--jaune);
 }
 
 h1 span{
@@ -52,7 +52,7 @@ header div {
 }
 
 main h3 {
-  border-bottom  : 1px solid var(#ffca04);
+  border-bottom  : 1px solid var(--jaune);
   text-transform : uppercase;
 }
 
@@ -88,7 +88,7 @@ main li {
 main li:before {
   content      : "\f111";
   font-family  : "Font Awesome 5 Free";
-  color        : var(#ffca04);
+  color        : var(--jaune);
   margin-right : .5rem;
 }
 
