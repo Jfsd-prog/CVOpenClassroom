@@ -148,6 +148,7 @@
     }
     header div {
       width        : -webkit-fill-available;
+      width        : -moz-available;
       padding-left : 2rem;
     }
     header div:after {
@@ -199,7 +200,6 @@
       order: -2;
     }
   }
-
   @media screen and (min-width: 1280px){
     main li {
       justify-content: flex-start;
